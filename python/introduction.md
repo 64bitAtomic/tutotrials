@@ -1,9 +1,3 @@
----
-title: "Introduction to Python"
-description: "Learn the basics of Python programming, its features, and why it's popular."
-order: 1
----
-
 # Introduction to Python
 
 Python is a **high-level, interpreted programming language** known for its **simplicity and readability**. It is widely used in **web development, data science, automation, AI, and more**.
