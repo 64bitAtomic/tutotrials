@@ -109,5 +109,3 @@ for (int i = 1; i <= 5; i++) {
 Java is a **powerful and versatile programming language** used in various applications, from web development to mobile and enterprise solutions. Understanding Java basics, such as syntax, control structures, and OOP concepts, is essential for becoming a proficient developer.
 
 ---
-
-🎯 **Next Steps:** Learn about **Object-Oriented Programming (OOP) in Java** and dive into more advanced topics!
