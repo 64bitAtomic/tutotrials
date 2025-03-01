@@ -1,0 +1,19 @@
+{
+  "_id": "bash",
+  "name": "Bash",
+  "topics": [
+    {
+      "title": "Introduction to Bash and Bash Scripting",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/intro.md"
+    },
+    {
+      "title": "Applications of Bash Scripting",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/applications.md"
+    },
+    {
+      "title": "Advantages of Bash Scripting",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/advantages.md"
+    }
+  ],
+  "__v": 0
+}
