@@ -1,18 +1,34 @@
 {
-  "_id": "bash",
-  "name": "Bash",
+  "_id": "python",
+  "name": "Python",
   "topics": [
     {
-      "title": "Introduction to Bash and Bash Scripting",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/intro.md"
+      "title": "Introduction to Python",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/introduction.md"
     },
     {
-      "title": "Applications of Bash Scripting",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/applications.md"
+      "title": "Python Syntax",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/syntax.md"
     },
     {
-      "title": "Advantages of Bash Scripting",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/advantages.md"
+      "title": "Python Comments",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/comments.md"
+    },
+    {
+      "title": "Python Variables",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/variables.md"
+    },
+    {
+      "title": "Python Data Types",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Data-Type.md"
+    },
+    {
+      "title": "Python Casting",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/casting.md"
+    },
+    {
+      "title": "Python Strings",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/String.md"
     }
   ],
   "__v": 0
