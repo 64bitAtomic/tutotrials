@@ -1,110 +1,106 @@
 {
-  "_id": "python",
-  "name": "Python",
+  "_id": "javascript",
+  "name": "Javascript",
   "topics": [
     {
-      "title": "Introduction to Python",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/introduction.md"
+      "title": "Introduction to JavaScript",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/intro.md"
     },
     {
-      "title": "Python Syntax",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/syntax.md"
+      "title": "JavaScript Output",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/ouput.md"
     },
     {
-      "title": "Python Comments",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/comments.md"
+      "title": "Where to Place JavaScript",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/whereto.md"
     },
     {
-      "title": "Python Variables",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/variables.md"
+      "title": "JavaScript Syntax",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Syntax.md"
     },
     {
-      "title": "Python Data Types",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Data-Type.md"
+      "title": "JavaScript Variables",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Variables.md"
     },
     {
-      "title": "Python Casting",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/casting.md"
+      "title": "JavaScript Data Types",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/DataTypes.md"
     },
     {
-      "title": "Python Strings",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/String.md"
+      "title": "JavaScript Operators",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Operator.md"
     },
     {
-      "title": "Python Booleans",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Boolean.md"
+      "title": "JavaScript Condtional Statements",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Condtional_Statement.md"
     },
     {
-      "title": "Python Operators",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Operator.md"
+      "title": "JavaScript Loops",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Loops.md"
     },
     {
-      "title": "Python Lists",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Lists.md"
+      "title": "JavaScript Break and Continue Statements",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Break.md"
     },
     {
-      "title": "Python Tuples",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Tuples.md"
+      "title": "JavaScript Functions",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Functions.md"
     },
     {
-      "title": "Python Dictionaries",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Dictionaries.md"
+      "title": "JavaScript Advanced Functions",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Functions_Advance.md"
     },
     {
-      "title": "Python Conditions",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/if-else.md"
+      "title": "JavaScript Objects",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Objects.md"
     },
     {
-      "title": "Python While Loops",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/while_loop.md"
+      "title": "JavaScript this Keyword",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/this.md"
     },
     {
-      "title": "Python For Loops",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/For_loop.md"
+      "title": "JavaScript Prototypes & Inheritance",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/ProtoType.md"
     },
     {
-      "title": "Python Functions",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Functions.md"
+      "title": "JavaScript Arrays & Methods",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Array.md"
     },
     {
-      "title": "Python Lambda Functions",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Lamda.md"
+      "title": "JavaScript Strings & Methods",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/String.md"
     },
     {
-      "title": "Python Arrays",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Arrays.md"
+      "title": "JavaScript Destructuring",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Destructuring.md"
     },
     {
-      "title": "Python Classes and Objects",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Classes.md"
+      "title": "JavaScript Promises",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Promise.md"
     },
     {
-      "title": "Python Inheritance",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Inheritance.md"
+      "title": "JavaScript Asynchronous Programming",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Asynchronous.md"
     },
     {
-      "title": "Python Scope",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Scope.md"
+      "title": "JavaScript Async/Await",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Async.md"
     },
     {
-      "title": "Python Modules",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Modules.md"
+      "title": "JavaScript Callbacks",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Callbacks.md"
     },
     {
-      "title": "Python Math",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Math.md"
+      "title": "JavaScript Callbacks",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Callbacks.md"
     },
     {
-      "title": "Python JSON",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/JSON.md"
+      "title": "JavaScript Modules",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Modules.md"
     },
     {
-      "title": "Python User Input",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/User_input.md"
-    },
-    {
-      "title": "Python String Formatting",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/String_Format.md"
+      "title": "JavaScript Classes",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Classes.md"
     }
   ],
   "__v": 0

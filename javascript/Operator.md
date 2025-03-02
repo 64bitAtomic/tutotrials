@@ -66,9 +66,9 @@ Used to compare values and return `true` or `false`.
 Used to perform logical operations.
 
 | Operator | Description | Example (`a = true, b = false`) | Result  |
-| -------- | ----------- | ------------------------------- | ------- | --- | --- | --- | ------ |
+| -------- | ----------- | ------------------------------- | ------- |
 | `&&`     | AND         | `a && b`                        | `false` |
-| `        |             | `                               | OR      | `a  |     | b`  | `true` |
+| `\|\|`   | OR          | `a \|\| b`                      | `true`  |
 | `!`      | NOT         | `!a`                            | `false` |
 
 ### 5. Bitwise Operators
@@ -76,9 +76,9 @@ Used to perform logical operations.
 Work at the binary level.
 
 | Operator | Description | Example (`x = 5 (0101), y = 1 (0001)`) | Result      |
-| -------- | ----------- | -------------------------------------- | ----------- | --- | ---------- |
+| -------- | ----------- | -------------------------------------- | ----------- |
 | `&`      | AND         | `x & y`                                | `0001 (1)`  |
-| `        | `           | OR                                     | `x          | y`  | `0101 (5)` |
+| `\|`     | OR          | `x \|\| y`                             | `0101 (5)`  |
 | `^`      | XOR         | `x ^ y`                                | `0100 (4)`  |
 | `~`      | NOT         | `~x`                                   | `-6`        |
 | `<<`     | Left shift  | `x << 1`                               | `1010 (10)` |
