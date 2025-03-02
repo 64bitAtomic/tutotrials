@@ -29,6 +29,82 @@
     {
       "title": "Python Strings",
       "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/String.md"
+    },
+    {
+      "title": "Python Booleans",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Boolean.md"
+    },
+    {
+      "title": "Python Operators",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Operator.md"
+    },
+    {
+      "title": "Python Lists",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Lists.md"
+    },
+    {
+      "title": "Python Tuples",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Tuples.md"
+    },
+    {
+      "title": "Python Dictionaries",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Dictionaries.md"
+    },
+    {
+      "title": "Python Conditions",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/if-else.md"
+    },
+    {
+      "title": "Python While Loops",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/while_loop.md"
+    },
+    {
+      "title": "Python For Loops",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/For_loop.md"
+    },
+    {
+      "title": "Python Functions",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Functions.md"
+    },
+    {
+      "title": "Python Lambda Functions",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Lamda.md"
+    },
+    {
+      "title": "Python Arrays",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Arrays.md"
+    },
+    {
+      "title": "Python Classes and Objects",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Classes.md"
+    },
+    {
+      "title": "Python Inheritance",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Inheritance.md"
+    },
+    {
+      "title": "Python Scope",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Scope.md"
+    },
+    {
+      "title": "Python Modules",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Modules.md"
+    },
+    {
+      "title": "Python Math",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/Math.md"
+    },
+    {
+      "title": "Python JSON",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/JSON.md"
+    },
+    {
+      "title": "Python User Input",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/User_input.md"
+    },
+    {
+      "title": "Python String Formatting",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/python/String_Format.md"
     }
   ],
   "__v": 0
