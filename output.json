@@ -1,126 +1,158 @@
 {
-  "_id": "java",
-  "name": "Java",
+  "_id": "c++",
+  "name": "C++",
   "topics": [
     {
-      "title": "Introduction to Java",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/introduction.md"
+      "title": "Introduction to C++",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/intro.md"
     },
     {
-      "title": "Java Syntax",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/syntax.md"
+      "title": "C++ Syntax and Statements",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/syntax%26statement.md"
     },
     {
-      "title": "Java Ouput",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/output.md"
+      "title": "C++ Comments",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/comments.md"
     },
     {
-      "title": "Java Comments",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/comments.md"
+      "title": "C++ Output Basics",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/output.md"
     },
     {
-      "title": "Java Variables",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/variables.md"
+      "title": "C++ Variables and Constants",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/variables.md"
     },
     {
-      "title": "Java Data Types",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/data-type.md"
+      "title": "C++ User Input",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/user-input.md"
     },
     {
-      "title": "Java Type Casting",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/type-casting.md"
+      "title": "C++ Data Types",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/Data-Types.md"
     },
     {
-      "title": "Java Operators",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/operators.md"
+      "title": "C++ Operators",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/operator.md"
     },
     {
-      "title": "Java Strings",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/string.md"
+      "title": "C++ Strings",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/String.md"
     },
     {
-      "title": "Java Strings",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/string.md"
+      "title": "C++ Math Functions",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/math.md"
     },
     {
-      "title": "Java Math",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/math.md"
+      "title": "C++ Booleans",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/boolean.md"
     },
     {
-      "title": "Java Booleans",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/booleans.md"
+      "title": "C++ Conditional Statements",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/conditional_statement.md"
     },
     {
-      "title": "Java Conditional Statements",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/contional-statement.md"
+      "title": "C++ Loops",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/Loops.md"
     },
     {
-      "title": "Java Loops",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/loops.md"
+      "title": "C++ break and continue Statements",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/break-continue.md"
     },
     {
-      "title": "Java break and continue Statements",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/break-continue.md"
+      "title": "C++ Arrays",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/array.md"
     },
     {
-      "title": "Java Arrays",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/array.md"
+      "title": "C++ Structures (Structs)",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/structs.md"
     },
     {
-      "title": "Java Methods and Scope",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/methods.md"
+      "title": "C++ Enums (Enumerations)",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/enum.md"
     },
     {
-      "title": "Java Recursion",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/recurrsion.md"
+      "title": "C++ References",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/References.md"
     },
     {
-      "title": "Java Object-Oriented Programming (OOP)",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/oops.md"
+      "title": "C++ Pointers",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/Pointers.md"
     },
     {
-      "title": "Java Classes and Objects",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/classes.md"
+      "title": "C++ Functions",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/Functions.md"
     },
     {
-      "title": "Java Encapsulation",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/encapsulation.md"
+      "title": "C++ Recursion",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/recurssion.md"
     },
     {
-      "title": "Java Inheritance",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/Inheritance.md"
+      "title": "Introduction to C++ Object-Oriented Programming (OOP)",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/oops.md"
     },
     {
-      "title": "Java Polymorphism",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/polymorphism.md"
+      "title": "C++ Classes and Methods",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/classes.md"
     },
     {
-      "title": "Java Abstract Classes and Modifiers",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/abstract.md"
+      "title": "C++ Access Specifiers",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/Acces_Specifire.md"
     },
     {
-      "title": "Java Packages",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/packages.md"
+      "title": "C++ Encapsulation",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/encapsulation.md"
     },
     {
-      "title": "Java Data Structures",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/data_structure.md"
+      "title": "C++ Inheritance",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/Inheritance.md"
     },
     {
-      "title": "Java Enums",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/enum.md"
+      "title": "C++ Polymorphism",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/Polymorphism.md"
     },
     {
-      "title": "Java Threads",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/Threads.md"
+      "title": "C++ Exceptions",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/Exceptions.md"
     },
     {
-      "title": "Java Lambda Expressions",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/lambda.md"
+      "title": "C++ Data Structures",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/data_structure.md"
     },
     {
-      "title": "Java Exception Handling (Try...Catch)",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/exception.md"
+      "title": "C++ Vectors",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/vectors.md"
+    },
+    {
+      "title": "C++ Lists",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/lists.md"
+    },
+    {
+      "title": "C++ Stacks",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/stacks.md"
+    },
+    {
+      "title": "C++ Queues",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/queue.md"
+    },
+    {
+      "title": "C++ Deque (Double-Ended Queue)",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/dequeue.md"
+    },
+    {
+      "title": "C++ Sets",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/sets.md"
+    },
+    {
+      "title": "C++ Maps",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/Maps.md"
+    },
+    {
+      "title": "C++ Iterators",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/Iterators.md"
+    },
+    {
+      "title": "C++ Maps",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/Maps.md"
     }
   ],
   "__v": 0
