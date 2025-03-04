@@ -1,106 +1,126 @@
 {
-  "_id": "javascript",
-  "name": "Javascript",
+  "_id": "java",
+  "name": "Java",
   "topics": [
     {
-      "title": "Introduction to JavaScript",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/intro.md"
+      "title": "Introduction to Java",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/introduction.md"
     },
     {
-      "title": "JavaScript Output",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/ouput.md"
+      "title": "Java Syntax",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/syntax.md"
     },
     {
-      "title": "Where to Place JavaScript",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/whereto.md"
+      "title": "Java Ouput",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/output.md"
     },
     {
-      "title": "JavaScript Syntax",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Syntax.md"
+      "title": "Java Comments",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/comments.md"
     },
     {
-      "title": "JavaScript Variables",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Variables.md"
+      "title": "Java Variables",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/variables.md"
     },
     {
-      "title": "JavaScript Data Types",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/DataTypes.md"
+      "title": "Java Data Types",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/data-type.md"
     },
     {
-      "title": "JavaScript Operators",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Operator.md"
+      "title": "Java Type Casting",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/type-casting.md"
     },
     {
-      "title": "JavaScript Condtional Statements",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Condtional_Statement.md"
+      "title": "Java Operators",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/operators.md"
     },
     {
-      "title": "JavaScript Loops",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Loops.md"
+      "title": "Java Strings",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/string.md"
     },
     {
-      "title": "JavaScript Break and Continue Statements",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Break.md"
+      "title": "Java Strings",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/string.md"
     },
     {
-      "title": "JavaScript Functions",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Functions.md"
+      "title": "Java Math",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/math.md"
     },
     {
-      "title": "JavaScript Advanced Functions",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Functions_Advance.md"
+      "title": "Java Booleans",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/booleans.md"
     },
     {
-      "title": "JavaScript Objects",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Objects.md"
+      "title": "Java Conditional Statements",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/contional-statement.md"
     },
     {
-      "title": "JavaScript this Keyword",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/this.md"
+      "title": "Java Loops",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/loops.md"
     },
     {
-      "title": "JavaScript Prototypes & Inheritance",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/ProtoType.md"
+      "title": "Java break and continue Statements",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/break-continue.md"
     },
     {
-      "title": "JavaScript Arrays & Methods",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Array.md"
+      "title": "Java Arrays",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/array.md"
     },
     {
-      "title": "JavaScript Strings & Methods",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/String.md"
+      "title": "Java Methods and Scope",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/methods.md"
     },
     {
-      "title": "JavaScript Destructuring",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Destructuring.md"
+      "title": "Java Recursion",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/recurrsion.md"
     },
     {
-      "title": "JavaScript Promises",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Promise.md"
+      "title": "Java Object-Oriented Programming (OOP)",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/oops.md"
     },
     {
-      "title": "JavaScript Asynchronous Programming",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Asynchronous.md"
+      "title": "Java Classes and Objects",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/classes.md"
     },
     {
-      "title": "JavaScript Async/Await",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Async.md"
+      "title": "Java Encapsulation",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/encapsulation.md"
     },
     {
-      "title": "JavaScript Callbacks",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Callbacks.md"
+      "title": "Java Inheritance",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/Inheritance.md"
     },
     {
-      "title": "JavaScript Callbacks",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Callbacks.md"
+      "title": "Java Polymorphism",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/polymorphism.md"
     },
     {
-      "title": "JavaScript Modules",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Modules.md"
+      "title": "Java Abstract Classes and Modifiers",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/abstract.md"
     },
     {
-      "title": "JavaScript Classes",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/javascript/Classes.md"
+      "title": "Java Packages",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/packages.md"
+    },
+    {
+      "title": "Java Data Structures",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/data_structure.md"
+    },
+    {
+      "title": "Java Enums",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/enum.md"
+    },
+    {
+      "title": "Java Threads",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/Threads.md"
+    },
+    {
+      "title": "Java Lambda Expressions",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/lambda.md"
+    },
+    {
+      "title": "Java Exception Handling (Try...Catch)",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/java/exception.md"
     }
   ],
   "__v": 0
