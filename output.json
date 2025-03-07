@@ -153,6 +153,10 @@
     {
       "title": "C++ Maps",
       "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/Maps.md"
+    },
+    {
+      "title": "C++ Algorithms",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c%2B%2B/Algorithms.md"
     }
   ],
   "__v": 0
