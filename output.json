@@ -1,110 +1,94 @@
 {
-  "_id": "c",
-  "name": "C",
+  "_id": "bash",
+  "name": "Bash",
   "topics": [
     {
-      "title": "Introduction to C",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/intro.md"
+      "title": "Introduction to Bash and Bash Scripting",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/intro.md"
     },
     {
-      "title": "Getting Started with C",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/getingStart.md"
+      "title": "Applications of Bash Scripting",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/applications.md"
     },
     {
-      "title": "C Syntax and Statements",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/syntax%26statement.md"
+      "title": "Advantages of Bash Scripting",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/advantages.md"
     },
     {
-      "title": "C Output",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/output.md"
+      "title": "Bash Variables and Their Types",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/variables.md"
     },
     {
-      "title": "C Comments",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/comments.md"
+      "title": "String Manipulation in Shell Scripting",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/string.md"
     },
     {
-      "title": "C Variables",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/variables.md"
+      "title": "Operators in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/Operator.md"
     },
     {
-      "title": "C Data Types",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/data-type.md"
+      "title": "Conditional Statements in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/Condtional.md"
     },
     {
-      "title": "C Constants",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/constants.md"
+      "title": "Loops in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/Loops.md"
     },
     {
-      "title": "C Operators",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/operator.md"
+      "title": "Functions in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/Functions.md"
     },
     {
-      "title": "C Booleans",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/boolean.md"
+      "title": "Arrays in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/Arrays.md"
     },
     {
-      "title": "C Conditional Statements",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/conditions.md"
+      "title": "User Input in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/user-input.md"
     },
     {
-      "title": "C Loops",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/loops.md"
+      "title": "File Handling in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/file_handling.md"
     },
     {
-      "title": "C break and continue Statements",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/break%26Continue.md"
+      "title": "File Permissions in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/FilePermissions.md"
     },
     {
-      "title": "C Arrays",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/arrays.md"
+      "title": "Process Management in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/Proocess.md"
     },
     {
-      "title": "C Strings",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/String.md"
+      "title": "Signal Handling in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/Signal.md"
     },
     {
-      "title": "C User Input",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/user_input.md"
+      "title": "Scheduling Tasks in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/schedulling.md"
     },
     {
-      "title": "C Memory Address",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/Memory_Allocation.md"
+      "title": "Networking in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/Netorking.md"
     },
     {
-      "title": "C Pointers",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/pointers.md"
+      "title": "Debugging in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/debugg.md"
     },
     {
-      "title": "C Functions",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/functions.md"
+      "title": "Job Control in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/Job_Control.md"
     },
     {
-      "title": "C Recursion",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/recursion.md"
+      "title": "Bash Scripting for System Administration",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/System_Administration.md"
     },
     {
-      "title": "C Math Library",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/math_func.md"
+      "title": "Bash and External Tools",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/externalTool.md"
     },
     {
-      "title": "C File Handling",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/Files.md"
-    },
-    {
-      "title": "C Structures (structs)",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/structs.md"
-    },
-    {
-      "title": "C Enumerations (Enums)",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/Enum.md"
-    },
-    {
-      "title": "C Memory Management",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/memory_management.md"
-    },
-    {
-      "title": "C Reference Guide",
-      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/Refrences.md"
+      "title": "Error Handling in Bash",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/bash/errorhandling.md"
     }
   ],
   "__v": 0
