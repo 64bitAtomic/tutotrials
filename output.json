@@ -59,48 +59,52 @@
       "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/arrays.md"
     },
     {
-      "title": "",
-      "urlToMarkdown": ""
+      "title": "C Strings",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/String.md"
     },
     {
-      "title": "",
-      "urlToMarkdown": ""
+      "title": "C User Input",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/user_input.md"
     },
     {
-      "title": "",
-      "urlToMarkdown": ""
+      "title": "C Memory Address",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/Memory_Allocation.md"
     },
     {
-      "title": "",
-      "urlToMarkdown": ""
+      "title": "C Pointers",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/pointers.md"
     },
     {
-      "title": "",
-      "urlToMarkdown": ""
+      "title": "C Functions",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/functions.md"
     },
     {
-      "title": "",
-      "urlToMarkdown": ""
+      "title": "C Recursion",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/recursion.md"
     },
     {
-      "title": "",
-      "urlToMarkdown": ""
+      "title": "C Math Library",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/math_func.md"
     },
     {
-      "title": "",
-      "urlToMarkdown": ""
+      "title": "C File Handling",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/Files.md"
     },
     {
-      "title": "",
-      "urlToMarkdown": ""
+      "title": "C Structures (structs)",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/structs.md"
     },
     {
-      "title": "",
-      "urlToMarkdown": ""
+      "title": "C Enumerations (Enums)",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/Enum.md"
     },
     {
-      "title": "",
-      "urlToMarkdown": ""
+      "title": "C Memory Management",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/memory_management.md"
+    },
+    {
+      "title": "C Reference Guide",
+      "urlToMarkdown": "https://raw.githubusercontent.com/64bitAtomic/tutotrials/refs/heads/main/c/Refrences.md"
     }
   ],
   "__v": 0
